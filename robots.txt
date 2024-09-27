@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gaderype.github.io/sitemap.gaderype.gz
+Sitemap: https://gaderype.github.io/app/sitemap.gaderype.gz
+Sitemap: https://gaderype.github.io/assets/sitemap.gaderype.gz
+Sitemap: https://gaderype.github.io/css/sitemap.gaderype.gz
+Sitemap: https://gaderype.github.io/data/sitemap.gaderype.gz
+Sitemap: https://gaderype.github.io/includes/sitemap.gaderype.gz
+Sitemap: https://gaderype.github.io/item/sitemap.gaderype.gz
+Sitemap: https://gaderype.github.io/src/sitemap.gaderype.gz
